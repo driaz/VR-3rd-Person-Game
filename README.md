@@ -4,4 +4,4 @@ Camera movement in VR is still a challenge for the platform as it can cause moti
 
 Solution that was implemented was utilizing Unity’s cinemachine module, damping both the Y and Z axis to slow camera movement along these axes. 
 
-A video of the project can be seen here - https://youtube.com/shorts/C5vkWIOPnok
+A video of the project can be seen here - https://www.youtube.com/watch?v=6F9qqkvJ6_A
